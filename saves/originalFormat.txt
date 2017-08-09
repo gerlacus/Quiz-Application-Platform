@@ -1,0 +1,18 @@
+I get irritated when people are walking too slowly in front of me and I have somewhere to be.	1	0
+I don't mind driving for an hour or two to get to the next big city nearest to my own.	0	1
+I care deeply about recycling and composting.	0	2
+In the summer, I prefer to wear flip flops over boat shoes.	0	3
+My ideal career would be in a tech-related field.	0	2
+My idea of fashion prioritizes layering over accessorizing.	1	4
+Living near urban centers with lots of entertainment/shopping opportunities is important to me.	1	2
+I like to drink cheap, local, and readily-available wine over more expensive and exotic brands.	0	5
+I am not very affected by bad weather.	1	-1
+A wide selection of local beers is not all that important to me.	1	-1
+I would rather spend the day hiking in the forest than shopping downtown.	0	-1
+Overall, I prefer cold rain over snow.	0	-1
+I prefer fast-paced, urban energy to a more relaxed lifestyle.	1	-1
+I like the idea of dressing in a sophisticated and professional manner for my job.	1	-1
+In the winter, I would rather wear a nice pea coat than a flannel jacket.	1	-1
+I think it is more important to be truthful than to avoid hurting someone's feelings.	1	-1
+I would rather have more leisure time than work extra hours at my job to finish a project early.	0	-1
+I prefer to go to parties that start and end earlier in the night rather than later.	0	-1
